@@ -1,0 +1,12 @@
+The manual and disk contents were copied from a boxed NOS
+   CIRRUS LOGIC VLB VESA LOCAL BUS CL-GD5426-80QC-B BOCA EUD 5U9 BRI4870 4870 VGA 
+card I purchased August 2021.
+
+Disk images are provided in the two ways:
+  As two .vfd files
+  As two folders
+
+Checkout my YouTube channel at https://www.youtube.com/channel/UCtUiwjYcRS_u6Egc8iTkHNg
+
+-Neil
+Aug 2021
